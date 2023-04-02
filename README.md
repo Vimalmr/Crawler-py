@@ -10,4 +10,4 @@ This is repo is for Storing the different versions of our crawler.
 
 `Tor` must be installed and should be running.
 
-Need to Parent URL to kick off the crawling
+Need to feed the Parent URL to kick off the crawling
