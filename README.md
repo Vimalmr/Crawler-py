@@ -12,4 +12,4 @@ This repository is for Storing the different versions and functionalities of the
 
 Python packages like `Beautifulsoup4` and `Scrapy` should be installed in the environment.
 
-After setting up the program in your environment, need to feed the Parent URL to kick off the crawling.
+After setting up the program in your environment, run any one of these versions of the crawler and feed the Parent URL(onion url) to kick off the crawling.
